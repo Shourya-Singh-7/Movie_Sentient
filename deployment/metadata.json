@@ -1,0 +1,6 @@
+{
+    "accuracy": 0.8856313788272964,
+    "date_trained": "2026-01-16 12:10:06",
+    "model_type": "LogisticRegression",
+    "description": "Sentiment Analysis model trained on Movie Reviews"
+}
